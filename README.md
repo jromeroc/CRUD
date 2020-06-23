@@ -4,6 +4,9 @@ Registra y administra los nombres de los cursos de platzi.
 ### Requisitos 🔧
 - [Python **3.8**](https://www.python.org/downloads/)
 
+#### Ejecución del script
+'python crud.py'
+
 ### Sobre este script :fa-file-code-o:
 Este script permite hacer un CRUD básico registrando los nombres de los curoso de Platzi los cuales se almacenan en un arreglo de datos.
 
